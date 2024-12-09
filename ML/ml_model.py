@@ -1,4 +1,4 @@
-from kan import *
+from kan import KAN
 import torch
 import os
 

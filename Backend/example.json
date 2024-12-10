@@ -1,0 +1,13 @@
+{
+  "wind_average":  9.0,
+  "wind_max": 13.0,
+  "temp": -2.7,
+  "visibility": 0.05,
+  "show_depth": 0.0,
+  "rainfall": 0.0,
+  "rainfall_per_month": 0.0,
+  "wind_drifting": 0.0,
+  "total_wind_drifting": 0.0,
+  "slope": 43.75,
+  "volume": 0.0925
+}

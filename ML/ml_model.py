@@ -1,6 +1,7 @@
 from kan import KAN
 import torch
 import os
+from Backend.shema import WeatherData
 
 
 '''
